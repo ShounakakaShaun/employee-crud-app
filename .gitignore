@@ -1,0 +1,12 @@
+# Java (Spring)
+backend/target/
+backend/.idea/
+backend/.vscode/
+
+# Node (React)
+frontend/node_modules/
+frontend/dist/
+
+# System
+.DS_Store
+*.log
