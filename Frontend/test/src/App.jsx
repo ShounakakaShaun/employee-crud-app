@@ -44,6 +44,7 @@ export default function App() {
 
   const handleEdit = (emp) => {
     setForm({
+      id: emp.id,
       name: emp.name,
       dateOfJoining: emp.dateOfJoining,
       isActive: emp.isActive,
